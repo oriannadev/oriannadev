@@ -1,44 +1,41 @@
 # Orianna Arvelo Ramirez
 
-I build AI pipelines, automation systems, and full-stack applications. Self-taught across the stack — from Linux environments and Docker infrastructure to multi-agent AI orchestration. Currently transitioning from nearly four years of team leadership at Starbucks into remote AI operations and DevOps work.
+Self-taught developer building AI pipelines, automation tools, and full-stack applications. Nearly four years of team leadership experience. Currently transitioning into remote AI operations and DevOps roles.
+
+**[oriannadev.github.io](https://oriannadev.github.io)** — portfolio site
 
 ---
 
-## What I Build
+## Projects
 
-**[LOL-65B](https://github.com/orianna1510-code/lol-65b)** — Full-stack AI social platform with content generation, user authentication, and social features. Built with Next.js, Python, and multi-provider AI integration. In active development.
+**[LOL-65B](https://github.com/oriannadev/lol-65b)** — Full-stack AI social platform where AI agents create, share, and vote on memes. Dual authentication, AI image generation with safety pipeline, threaded comments, communities, and a public REST API for autonomous agents. Next.js, TypeScript, Supabase, Prisma.
 
-**Multi-Agent Development Environment** — 6 concurrent AI coding agents running coordinated development workflows with MCP server integrations and shared context management.
+**[PromptLab](https://github.com/oriannadev/promptlab)** — Prompt engineering analysis CLI. Scores prompts across clarity, structure, specificity, and length. Detects 8 anti-patterns with actionable suggestions. Runs entirely offline — no API key needed. 31 tests. Python, Click, Rich.
 
-**[PromptLab](https://github.com/orianna1510-code/promptlab)** — CLI tool that analyzes prompts for quality across clarity, structure, and specificity. Scores on a 1-10 scale with actionable suggestions. No API key required. 31 tests passing.
+**[envguard](https://github.com/oriannadev/envguard)** — Secret scanner for codebases. Detects leaked API keys, tokens, passwords, and credentials with 12 regex-based detection rules. CI/CD ready with JSON and SARIF output for GitHub Code Scanning. 54 tests, 91% coverage. Python, Click, Rich.
 
-**[EnvGuard](https://github.com/orianna1510-code/envguard)** — Secret scanner for codebases. Detects API keys, tokens, passwords, and credentials with 12 regex-based rules. CI/CD ready with JSON and SARIF output. 54 tests, 91% coverage.
+**[quicksync](https://github.com/oriannadev/quicksync)** — Environment variable management CLI. Diff, merge, validate, audit, and export `.env` files across projects. Schema validation, format conversion, and security-first design. Pairs with envguard.
 
-**Containerized Infrastructure** — Docker-based development environments on WSL2 Ubuntu for cross-platform tooling, service orchestration, and reproducible builds.
+**[anime-rank](https://github.com/oriannadev/anime-rank)** — Anime stats CLI powered by the Jikan API. Search anime, browse seasonal charts, compare shows, and get recommendations — all with rich terminal output.
 
----
-
-## Tools I Work With
-
-**Languages & Scripting** — Python, TypeScript/JavaScript, Bash, SQL
-
-**AI & ML** — Anthropic Claude API, OpenAI API, Gemini, DeepSeek, ComfyUI, prompt engineering, MCP (Model Context Protocol)
-
-**Infrastructure** — Docker, WSL2/Ubuntu, Linux administration, Git, n8n workflow automation
-
-**Web & APIs** — Next.js, React, Node.js, REST APIs, FastAPI
-
-**Data** — PostgreSQL, SQLite, Redis
+**[watchdog-cli](https://github.com/oriannadev/watchdog-cli)** — File system watcher with configurable actions. Monitor directories for changes with live terminal display, debounced triggers, and YAML-based configuration.
 
 ---
 
-## Currently Working On
+## What I Work With
 
-Building out [LOL-65B](https://github.com/orianna1510-code/lol-65b) as a portfolio flagship project, and actively pursuing remote roles in AI operations, automation engineering, and DevOps. Open to contract work and collaboration.
+```
+Languages        Python, TypeScript, JavaScript, Bash, SQL
+AI / ML          Claude API, OpenAI, Gemini, DeepSeek, ComfyUI, MCP, Prompt Engineering
+Infrastructure   Docker, Linux, WSL2, Git, GitHub Actions, n8n
+Web              Next.js, React, Astro, REST APIs, Tailwind CSS
+Data             PostgreSQL, Supabase, Prisma, SQLite, Redis
+```
 
 ---
 
 ## Let's Connect
 
 **Email** — orianna.arvelo@outlook.com
-**LinkedIn** — [www.linkedin.com/in/orianna-arvelo-ramirez](https://www.linkedin.com/in/orianna-arvelo-ramirez)
+**LinkedIn** — [linkedin.com/in/orianna-arvelo-ramirez](https://www.linkedin.com/in/orianna-arvelo-ramirez)
+**Portfolio** — [oriannadev.github.io](https://oriannadev.github.io)
