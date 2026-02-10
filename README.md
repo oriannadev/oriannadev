@@ -12,6 +12,8 @@ I build AI pipelines, automation systems, and full-stack applications. Self-taug
 
 **[PromptLab](https://github.com/orianna1510-code/promptlab)** — CLI tool that analyzes prompts for quality across clarity, structure, and specificity. Scores on a 1-10 scale with actionable suggestions. No API key required. 31 tests passing.
 
+**[EnvGuard](https://github.com/orianna1510-code/envguard)** — Secret scanner for codebases. Detects API keys, tokens, passwords, and credentials with 12 regex-based rules. CI/CD ready with JSON and SARIF output. 54 tests, 91% coverage.
+
 **Containerized Infrastructure** — Docker-based development environments on WSL2 Ubuntu for cross-platform tooling, service orchestration, and reproducible builds.
 
 ---
