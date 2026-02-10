@@ -39,4 +39,4 @@ Building out [LOL-65B](https://github.com/orianna1510-code/lol-65b) as a portfol
 ## Let's Connect
 
 **Email** — orianna.arvelo@outlook.com
-**LinkedIn** — [linkedin.com/in/orianna-arvelo](https://linkedin.com/in/orianna-arvelo)
+**LinkedIn** — [www.linkedin.com/in/orianna-arvelo-ramirez-528837161](https://www.linkedin.com/in/orianna-arvelo-ramirez-528837161)
